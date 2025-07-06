@@ -4,7 +4,7 @@
 PhD Student, Statistics & Data Science  
 The University of Arizona  
 Email: kamaljeetsingh@arizona.edu
-
+**Course Project:** SIE 645 – Non-Linear Optimization
 ## Overview
 
 This project is a literature review exploring **implicit regularization** in **deep neural networks (DNNs)** from an **optimization perspective**. It focuses on how overparameterized models—those with more parameters than training data—can still generalize well to unseen data, despite fitting the training data perfectly.
