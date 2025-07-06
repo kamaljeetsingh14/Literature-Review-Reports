@@ -3,7 +3,8 @@
 **Author:** Kamaljeet Singh  
 PhD Student, Statistics & Data Science  
 The University of Arizona  
-Email: kamaljeetsingh@arizona.edu
+Email: kamaljeetsingh@arizona.edu  
+
 **Course Project:** SIE 645 – Non-Linear Optimization
 ## Overview
 
