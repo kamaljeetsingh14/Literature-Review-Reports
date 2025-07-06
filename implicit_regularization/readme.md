@@ -18,11 +18,6 @@ This project is a literature review exploring **implicit regularization** in **d
 - The role of mini-batch training
 
 
-## Project Contents
-
-- `paper/` – Literature review PDF (final report)
-- `code/` – (Optional) Experimental or illustrative code
-
 ## Motivation
 
 Despite the highly non-convex nature of training deep networks, gradient-based optimizers often find solutions that generalize well. This project investigates the underlying optimization dynamics and how they act as an implicit form of regularization.
